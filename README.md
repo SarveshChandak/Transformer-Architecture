@@ -149,6 +149,6 @@ This notebook is designed for:
 
 ## References
 
-- "Attention Is All You Need" (Vaswani et al., 2017)
-- Inspired by Andrej Karpathy's makemore project
-- TinyShakespeare dataset from karpathy/char-rnn
+- [Transformers A2Z (YouTube Playlist)](https://youtube.com/playlist?list=PLtUbgCa7khRlAwgyJND_RDuo1aYF9gNid&si=ApY32iKEJ4ucK0QU)
+- ["Attention Is All You Need" Paper](https://arxiv.org/pdf/1706.03762)
+- [Andrej Karpathy — Let's build GPT from scratch](https://youtu.be/kCc8FmEb1nY?si=iMEFmuJmbRL6c0Kv)
